@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=3.3V Pin=R12-2
+Removed Member From Class: ClassName=从机 Member=LED3
+Removed Member From Class: ClassName=从机 Member=R12
+Added Room: Name=从机

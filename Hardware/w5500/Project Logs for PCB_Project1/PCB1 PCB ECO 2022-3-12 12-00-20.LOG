@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=PB9/SCSn Pin=JP1-1
+Removed Pin From Net: NetName=PB13/SCLK Pin=JP1-2
+Removed Pin From Net: NetName=PB5/INTn Pin=JP1-5
+Removed Pin From Net: NetName=PB4/RSTn Pin=JP1-6
+Added Pin To Net: NetName=PB5/INTn Pin=JP1-1
+Added Pin To Net: NetName=PB4/RSTn Pin=JP1-2
+Added Pin To Net: NetName=PB9/SCSn Pin=JP1-5
+Added Pin To Net: NetName=PB13/SCLK Pin=JP1-6
+Added Room: Name=Sheet1

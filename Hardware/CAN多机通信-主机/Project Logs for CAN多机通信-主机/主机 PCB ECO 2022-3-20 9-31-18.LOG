@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=PA3/Battery Pin=LED3-2
+Added Pin To Net: NetName=PA3/Battery Pin=U1-13
+Added Net: Name=PA3/Battery
+Added Pin To Net: NetName=PA4/Run Pin=LED2-2
+Added Pin To Net: NetName=PA4/Run Pin=U1-14
+Added Net: Name=PA4/Run
+Added Room: Name=Ö÷»ú

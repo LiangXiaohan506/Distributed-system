@@ -1,0 +1,22 @@
+Added Pin To Net: NetName=PB4/RSTn Pin=IC1-37
+Added Pin To Net: NetName=PB4/RSTn Pin=R9-1
+Added Pin To Net: NetName=PB4/RSTn Pin=U1-40
+Added Net: Name=PB4/RSTn
+Added Pin To Net: NetName=PB5/INTn Pin=IC1-36
+Added Pin To Net: NetName=PB5/INTn Pin=R8-1
+Added Pin To Net: NetName=PB5/INTn Pin=U1-41
+Added Net: Name=PB5/INTn
+Added Pin To Net: NetName=PB6/MOSI Pin=IC1-35
+Added Pin To Net: NetName=PB6/MOSI Pin=U1-42
+Added Net: Name=PB6/MOSI
+Added Pin To Net: NetName=PB7/MISO Pin=IC1-34
+Added Pin To Net: NetName=PB7/MISO Pin=U1-43
+Added Net: Name=PB7/MISO
+Added Pin To Net: NetName=PB8/SCLK Pin=IC1-33
+Added Pin To Net: NetName=PB8/SCLK Pin=U1-45
+Added Net: Name=PB8/SCLK
+Added Pin To Net: NetName=PB9/SCSn Pin=IC1-32
+Added Pin To Net: NetName=PB9/SCSn Pin=R7-1
+Added Pin To Net: NetName=PB9/SCSn Pin=U1-46
+Added Net: Name=PB9/SCSn
+Added Room: Name=Ö÷»ú

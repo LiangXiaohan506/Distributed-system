@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetIC4_7 Pin=JP2-1
+Removed Pin From Net: NetName=NetIC4_6 Pin=JP2-2
+Added Pin To Net: NetName=NetIC4_6 Pin=JP2-1
+Added Pin To Net: NetName=NetIC4_7 Pin=JP2-2
+Added Room: Name=´Ó»ú

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=JP9-1
+Removed Pin From Net: NetName=5V Pin=JP9-2
+Removed Pin From Net: NetName=GND Pin=JP10-1
+Removed Pin From Net: NetName=5V Pin=JP10-2
+Removed Member From Class: ClassName=电源板 Member=JP9
+Removed Member From Class: ClassName=电源板 Member=JP10
+Added Room: Name=电源板

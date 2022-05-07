@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=PA5/S1 Pin=U1-15
+Removed Pin From Net: NetName=PA7/S3 Pin=U1-17
+Added Pin To Net: NetName=PA7/S3 Pin=U1-15
+Added Pin To Net: NetName=PA5/S1 Pin=U1-17
+Change Net Name : Old Net Name=PA5/S1 New Net Name=PA7/S1
+Change Net Name : Old Net Name=PA7/S3 New Net Name=PA5/S3
+Added Room: Name=´Ó»ú

@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [CAN多机通信-从机.PrjPCB]
+   Generated File[从机-RoundHoles.TXT]
+   Generated File[从机-SlotHoles.TXT]
+   Generated File[从机.LDP]
+   Generated File[从机.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 9:01:45 On 2022/4/20

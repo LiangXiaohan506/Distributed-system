@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NetIC2_7 Pin=JP2-1
+Removed Pin From Net: NetName=NetIC2_6 Pin=JP2-2
+Removed Member From Class: ClassName=主机 Member=JP2
+Added Component: Designator=JP?(KF350-2P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "技术支持，联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝卖家 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetIC2_6 Pin=JP?-1
+Added Pin To Net: NetName=NetIC2_7 Pin=JP?-2
+Added Member To Class: ClassName=主机 Member=Component JP? HDR-1X2
+Added Room: Name=主机
